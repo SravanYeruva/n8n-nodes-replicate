@@ -1,17 +1,15 @@
 {
-	"name": "n8n-nodes-replicate",
-	"version": "0.1.2",
-	"description": "A n8n node for replicate.com",
-	"keywords": ["n8n-community-node-package", "replicate", "ai", "n8n"],
+	"name": "n8n-nodes-replicate-fixed",
+	"version": "0.1.0",
+	"description": "A fixed version of n8n node for replicate.com",
 	"license": "MIT",
-	"homepage": "",
 	"author": {
-		"name": "Michaël de Marliave",
-		"email": "micode@micorp.studio"
+		"name": "Sravan Yeruva",
+		"email": "sravanyeruvah@gmail.com"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/michael-dm/n8n-nodes-replicate.git"
+		"url": "https://github.com/SravanYeruva/n8n-nodes-replicate.git"
 	},
 	"main": "index.js",
 	"scripts": {
