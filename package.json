@@ -11,6 +11,7 @@
 		"type": "git",
 		"url": "https://github.com/SravanYeruva/n8n-nodes-replicate.git"
 	},
+  "keywords": ["n8n-community-node-package", "replicate", "ai", "n8n"],
 	"main": "index.js",
 	"scripts": {
 		"build": "tsc && gulp build:icons",
